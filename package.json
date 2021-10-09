@@ -1,0 +1,29 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "Node JS course for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smovg-by/nodejs_minin.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Uladzimir Smouzh <smovg1986@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smovg-by/nodejs_minin/issues"
+  },
+  "homepage": "https://github.com/Smovg-by/nodejs_minin#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
