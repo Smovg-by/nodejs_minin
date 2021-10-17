@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a7ca12-d79d-496f-8d3e-e6244c1bbfc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/notes/notes.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/~$notes.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/~WRL0003.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -85,6 +88,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="14.17.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.17.4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -114,7 +118,7 @@
       <workItem from="1633890055036" duration="165000" />
       <workItem from="1633890235212" duration="20000" />
       <workItem from="1634282161703" duration="3291000" />
-      <workItem from="1634463873329" duration="1688000" />
+      <workItem from="1634463873329" duration="2902000" />
     </task>
     <servers />
   </component>
